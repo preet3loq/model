@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1590426043612,"sparkVersion":"2.4.3","uid":"oneHotEncoder_15fb95c68f0d","paramMap":{"inputCols":["age"],"dropLast":false,"handleInvalid":"keep","outputCols":["age_vec"]},"defaultParamMap":{"dropLast":true,"handleInvalid":"error"}}
